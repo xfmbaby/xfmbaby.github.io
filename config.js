@@ -59,8 +59,8 @@ var conf = {
 	"vdef": "8",
 	"vadd": "8",
 	"cache": "86400",
-	"adth1": "分享好友后获得+8次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
-	"adthe": "分享好友后获得+8次的刷新机会<br><br>提示朋友打开才管用呦！",
+	"adth1": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！<br><img src=\"images/here.png\" style=\"width:90%;margin-top:13px;border-radius:5px;\">",
+	"adthe": "分享好友后获得+5次的刷新机会<br><br>提示朋友打开才管用呦！",
 	"title": [
 		"❀小肥猫全网最新精品合集❀"
 	],
