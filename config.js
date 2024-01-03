@@ -69,7 +69,7 @@ var conf = {
 	"sText": "各种网紅大呱💖等↓你↓来开💌\r\n↓↓弟兄们速度上车！！\r\n###\r\n看   →   更   →   多   →   精   →   彩   →https://kkk12-1311508894.cos.ap-chengdu.myqcloud.com/xfm.html\r\n☝如遇打不开\r\n🔍刘岚器搜：xiaofeimao.cn",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
-	"ready": "https://i.qianbao.qq.com/lib/components/adapt/middlepage.html?url=https://qm.qq.com/q/RUTP7kJD6Q,
+	"ready": " https://i.qianbao.qq.com/lib/components/adapt/middlepage.html?url=https://qm.qq.com/q/RUTP7kJD6Q ",
 	"btn2": "  微信 - vip - 呱群 ",
 	"url2": [
 		"https://os.i.gtimg.cn/music/photo_new/T053XD006001Tbi4f1nngT2.jpg"
