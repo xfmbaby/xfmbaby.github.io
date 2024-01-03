@@ -65,7 +65,7 @@ var conf = {
 		"❀小肥猫全网最新精品合集❀"
 	],
 	"topad": "https://15.lanzouj.com/s/xfm01",
-	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群V群 增加观看次数\r\n②每有一人打开你就增加8次\r\n③没有人打开不增加次数",
+	"sInfo": "没有观看次数了！\r\n①请复制转发到Q群V群 增加观看次数\r\n②每有一人打开你就增加5次\r\n③没有人打开不增加次数",
 	"sText": "各种网紅大呱💖等↓你↓来开💌\r\n↓↓弟兄们速度上车！！\r\n###\r\n看   →   更   →   多   →   精   →   彩   →https://kkk12-1311508894.cos.ap-chengdu.myqcloud.com/xfm.html\r\n☝如遇打不开\r\n🔍刘岚器搜：xiaofeimao.cn",
 	"sEnd": "复制成功,返回QQ,粘贴发送到Q群吧",
 	"tongji": "",
