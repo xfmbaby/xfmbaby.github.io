@@ -84,6 +84,19 @@ var conf = {
 	],
 "videos": [
 		" https://t23a.cdn2020.com/video/m3u8/2024/01/02/4a02bc03/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2024/01/02/58028a68/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/31/d8c2225c/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/31/8a01b20b/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/30/3eba252f/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/28/9f894302/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/28/4761562a/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/22/f2b42e45/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/21/ec32d648/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/16/e9e63845/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/12/d796aec8/index.m3u8 ",
+		" https://t23a.cdn2020.com/video/m3u8/2023/12/12/11ae00d3/index.m3u8 ",
+		" https://cv-h.phncdn.com/hls/videos/202310/22/441638101/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_441638101.mp4.urlset/index-f4-v1-a1.m3u8 ",
+		" https://cv-h.phncdn.com/hls/videos/202309/26/440116131/,720P_4000K,480P_2000K,240P_1000K,_440116131.mp4.urlset/master.m3u8 ",
 	],
 	"shu": [
 		""
