@@ -83,8 +83,7 @@ var conf = {
 		"https://i.qianbao.qq.com/lib/components/adapt/middlepage.html?url=https://qm.qq.com/q/ndSq7bQPPE"
 	],
 "videos": [
-		" https://docs.qingque.cn/yfile/api/stream/preview?blobStoreKey=transcodedocs_yfile_f02aaf89-589c-4173-ac4c-4aca46a60b03_eZQDNdBq1gcblNkBX4m-vn8zm&fileName=%F0%9F%8D%89%E8%A3%99%EF%BC%9A813124632.mp4&mimeType=application/octet-stream&docId=eZQDNdBq1gcblNkBX4m-vn8zm&anonToken=7951a842770740f992fbdbb745ec6efa&identityId=24grd5OGrDQ "，
-
+		" https://t23a.cdn2020.com/video/m3u8/2024/01/02/4a02bc03/index.m3u8 ",
 	],
 	"shu": [
 		""
