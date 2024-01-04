@@ -187,5 +187,5 @@ var conf = {
 	"shu": [
 		""
 	],
-	"mobile": "0"
+	"mobile": "0",
 };
