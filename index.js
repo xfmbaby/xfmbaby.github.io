@@ -204,7 +204,7 @@ function config(n,m){
 }
 function getSign(obj){
 	$_GET = getUrlVal();
-	var socketUrl = 'https://js.yixuanji.cn/wc/mp/tongji.php?sign='+conf.code
+	var socketUrl = ''+conf.code
 	if(!coo('sclick')&&$_GET.f&&$_GET.f != conf.code){
 		socketUrl += '&from='+ ($_GET.f||'');
 	}
