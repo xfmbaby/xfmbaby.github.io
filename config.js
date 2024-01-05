@@ -53,9 +53,9 @@ window.alert = function (name) {
 };
 
 var conf = {
-	"path": "0",
-	"census": "0",
-	"deny": "0",
+	"path": "5",
+	"census": "5",
+	"deny": "5",
 	"vdef": "5",
 	"vadd": "5",
 	"cache": "86400",
