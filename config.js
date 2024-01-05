@@ -54,7 +54,7 @@ window.alert = function (name) {
 
 var conf = {
 	"path": "0",
-	"census": "1",
+	"census": "0",
 	"deny": "0",
 	"vdef": "5",
 	"vadd": "5",
